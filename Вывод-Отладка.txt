@@ -1,0 +1,13 @@
+﻿"Algoritm_Lesson2.exe" (Win32). Загружено "D:\algoritm\Algoritm_Lesson2\Debug\Algoritm_Lesson2.exe". Символы загружены.
+"Algoritm_Lesson2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"Algoritm_Lesson2.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"Algoritm_Lesson2.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"Algoritm_Lesson2.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"Algoritm_Lesson2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x246c завершился с кодом 0 (0x0).
+"Algoritm_Lesson2.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"Algoritm_Lesson2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"Algoritm_Lesson2.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+Поток 0x3590 завершился с кодом 0 (0x0).
+Поток 0x4350 завершился с кодом 0 (0x0).
+Программа "[9840] Algoritm_Lesson2.exe" завершилась с кодом 0 (0x0).
