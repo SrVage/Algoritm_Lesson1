@@ -1,4 +1,4 @@
-// Krampit Maksim, lesson 4, task2
+// Krampit Maksim, lesson 4, task3
 
 #include <stdio.h>
 #include <math.h>
