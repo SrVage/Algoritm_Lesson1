@@ -1,0 +1,5 @@
+﻿  main2.c
+D:\algoritm\Algoritm_Lesson1\Algoritm_Lesson4\main2.c(27,7): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+D:\algoritm\Algoritm_Lesson1\Algoritm_Lesson4\main2.c(77,9): warning C4101: j: неиспользованная локальная переменная
+D:\algoritm\Algoritm_Lesson1\Algoritm_Lesson4\main2.c(77,6): warning C4101: i: неиспользованная локальная переменная
+  Algoritm_Lesson4.vcxproj -> D:\algoritm\Algoritm_Lesson1\Algoritm_Lesson4\x64\Debug\Algoritm_Lesson4.exe
